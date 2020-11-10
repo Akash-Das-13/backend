@@ -6220,11 +6220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Favourites\\Favourites.csproj",
+      "projectUniqueName": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Favourites\\Favourites.csproj",
       "projectName": "Favourites",
-      "projectPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Favourites\\Favourites.csproj",
+      "projectPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Favourites\\Favourites.csproj",
       "packagesPath": "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Favourites\\obj\\",
+      "outputPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Favourites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

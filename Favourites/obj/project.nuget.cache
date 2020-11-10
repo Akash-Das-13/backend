@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kA8+Nj00Y0i4e7Rwqa5U9pLsIGgu35E02ZWOrsNGhhgl7YUCe3/cVlSdTNHeIwFEHR5/d8EVaKykhu416NMlsA==",
+  "dgSpecHash": "7T2EGq47e8gjLWyFY2GS/dX69QC8JYH7vhpRzaeOOo8sut5Y6RLYwYI2lWLFzpkTzrc+pXLFwTI6G9AVzXuQeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Favourites\\Favourites.csproj",
+  "projectFilePath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Favourites\\Favourites.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\jwt\\7.3.0\\jwt.7.3.0.nupkg.sha512",
     "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",

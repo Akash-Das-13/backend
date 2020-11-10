@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mbm45CIgduv1yYOc7D/wE0myh8WmgWERp0k4b5wwPDEKw2i+lPJQtJGWC853oq38jWz/GllImC4snnJQC3rglQ==",
+  "dgSpecHash": "2vQIxLGc5vezJZ5K32SqoZEIqr6K22hmhGn3VzCtmUK5+YR+HSWEjtTXaPjzzBzH2F+PRFPsOQQOheFzjKzmOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\PlayerAPI\\PlayerAPI.csproj",
+  "projectFilePath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\PlayerAPI\\PlayerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

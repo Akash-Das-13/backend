@@ -5792,11 +5792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Authentication\\Authentication.csproj",
+      "projectUniqueName": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Authentication\\Authentication.csproj",
       "projectName": "Authentication",
-      "projectPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Authentication\\Authentication.csproj",
+      "projectPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Authentication\\Authentication.csproj",
       "packagesPath": "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Authentication\\obj\\",
+      "outputPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

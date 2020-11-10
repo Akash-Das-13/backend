@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\PlayerAPI\\PlayerAPI.csproj": {}
+    "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\PlayerAPI\\PlayerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\PlayerAPI\\PlayerAPI.csproj": {
+    "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\PlayerAPI\\PlayerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\PlayerAPI\\PlayerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\PlayerAPI\\PlayerAPI.csproj",
         "projectName": "PlayerAPI",
-        "projectPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\PlayerAPI\\PlayerAPI.csproj",
+        "projectPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\PlayerAPI\\PlayerAPI.csproj",
         "packagesPath": "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\PlayerAPI\\obj\\",
+        "outputPath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\PlayerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

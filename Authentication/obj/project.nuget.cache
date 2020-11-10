@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QjGQ6L1SH8nhnpAjg0/Aqy0QkxnsUo1gLRMqc0DyMhr37idI1QiqjcrJ+D+jypO4/XWHiSag5FImtVcbWuczow==",
+  "dgSpecHash": "PJDvdqwsSVBBDeZ9/Zk5ouRQVDznfrl2WvDvoA4I8uTJlYg+PBCYEdupl85Qeq6jD1FoToDMHJf6ZX9PnDcgUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\CplayerApp\\Authentication\\Authentication.csproj",
+  "projectFilePath": "C:\\Users\\adminvm.Adminvm\\Desktop\\Project(CPLYER_App)\\backend\\Authentication\\Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\adminvm.Adminvm\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
